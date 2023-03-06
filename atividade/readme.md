@@ -11,4 +11,4 @@
 11. Uma maquina que te dá acesso ao "mundo".
 12. É uma maneira de escrever funções para o computador.
 13. Java
-14. 
+14. A
